@@ -13,6 +13,6 @@ property by submitting the inquiry form to its Realtor.
 
 ![Alt](https://media.giphy.com/media/3MzDKx2fsUfVMrqzl4/giphy.gif)
 
-### ok
+### Making Inquiry
 ![see](https://media.giphy.com/media/Djgk9ASrDFpcQnBNUf/giphy.gif)
 
