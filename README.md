@@ -35,7 +35,9 @@ mail to its realtor notifiying them about the inquiry.
 ## Development 
 Feature Requests/ Issues and contributions are welcome, just star and fork the repo to your profile <br>
 
-## Run locally 
+---
+
+## Run locally on your PC
 
 Download ![here](https://github.com/rahulnegi20/Estate-web-app/archive/refs/heads/main.zip)
 
@@ -53,3 +55,5 @@ Download ![here](https://github.com/rahulnegi20/Estate-web-app/archive/refs/head
 4. Move to the root directory i.e. (where is your manage.py located) & run. <br>
 ` python manage.py migrate` <br>
 ` python manage.py runserver` <br>
+
+> This project was part of BradTraversy course ![repo](https://github.com/bradtraversy/btre_project) 
