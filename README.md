@@ -19,7 +19,7 @@ Basic User Register and Authentication function.<br>
 ![Register and Login Functionality](https://media.giphy.com/media/f4DNN70CzALpcerwOQ/giphy.gif)
 
 ### Listings/Browsing property
-A carousel which shows enlisted images of the property (max 6)
+A carousel which shows enlisted images of the property (max 6).
 
 ![Featured Listings](https://media.giphy.com/media/3MzDKx2fsUfVMrqzl4/giphy.gif)
 
@@ -33,7 +33,7 @@ mail to its realtor notifiying them about the inquiry.
 --- 
 
 ## Development 
-Feature Requests/ Issues and contributions are welcome, just star and fork the repo to your profile <br>
+Feature Requests/ Issues and contributions are welcome, just star and fork the repo to your profile. <br>
 
 ---
 
