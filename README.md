@@ -37,4 +37,19 @@ Feature Requests/ Issues and contributions are welcome, just star and fork the r
 
 ## Run locally 
 
-Download the repo by clicking ![here](https://github.com/rahulnegi20/Estate-web-app.git)
+Download ![here](https://github.com/rahulnegi20/Estate-web-app/archive/refs/heads/main.zip)
+
+> OR 
+
+1. Run this in your terminal. <br>
+` git clone https://github.com/rahulnegi20/Estate-web-app.git` 
+
+3. Make a venv. <br>
+`python3 -m venv myenv`
+
+3. Install requirements. <br>
+` pip install -r requirements.txt`
+
+4. Move to the root directory i.e. (where is your manage.py located) & run. <br>
+` python manage.py migrate` <br>
+` python manage.py runserver` <br>
