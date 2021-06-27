@@ -33,4 +33,8 @@ mail to its realtor notifiying them about the inquiry.
 --- 
 
 ## Development 
+Feature Requests/ Issues and contributions are welcome, just star and fork the repo to your profile <br>
 
+## Run locally 
+
+Download the repo by clicking ![here](https://github.com/rahulnegi20/Estate-web-app.git)
